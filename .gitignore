@@ -1,0 +1,10 @@
+bin*
+*.png
+*.jpg
+assets/maps/*
+assets/hexes/Old Hexes
+.settings*
+*.class
+*~
+*.swp
+.project
